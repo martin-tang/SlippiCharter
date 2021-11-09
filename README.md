@@ -1,5 +1,6 @@
 ### READ ME ### 
-usage: python3 start.py 
+
+Usage: In your terminal type: python3 start.py 
 
 0. Python >= 3.6 and compatible pip 
 1. Requires pip install py.slippi
